@@ -1,0 +1,33 @@
+body{
+    background-image: url(/public/images/bg.jpg);
+
+}
+p{
+    font-size: 10px
+}
+.ata{
+    background-color: #f4f4f4;
+}
+.b{
+    color: white;
+}
+.gris{
+ background-color: #1e1f23;
+}
+.noir{
+ background-color: #121315;
+}
+.br{
+    background-color: white;
+}
+.brr{
+    background-color: #1e1f23;
+}
+.jep{
+    color: rgb(184, 182, 182);
+}
+.jop{
+    color: rgb(180, 178, 178);
+    padding: 5vh;
+    font-size: 30px;
+}
